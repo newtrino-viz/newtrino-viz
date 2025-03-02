@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data visualization projects for noobs
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Statistic traumatized me, this is a redemption arc of sorts. 
+- ⚡ Fun fact: I'm not actually a newt. 
 
 <!---
 newtrino-viz/newtrino-viz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
